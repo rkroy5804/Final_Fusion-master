@@ -1,11 +1,8 @@
 # Final Fusion Translator
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Ashwinpatel7/Final_Fusion)
-
 ## 📝 Project Overview
 
-[View on GitHub](https://github.com/Ashwinpatel7/Final_Fusion)
-
+[
 Final Fusion Translator is a comprehensive, modern language translation application built with React. It provides a sleek, intuitive interface for translating text, documents, images, and speech across multiple languages. This project was developed as a college project to demonstrate proficiency in modern web development techniques and the implementation of language processing technologies.
 
 ## ✨ Features
