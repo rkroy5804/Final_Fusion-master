@@ -41,7 +41,6 @@ Final Fusion Translator is a comprehensive, modern language translation applicat
 
 ## 📋 Project Structure
 
-[Browse Code on GitHub](https://github.com/Ashwinpatel7/Final_Fusion)
 
 ```
 polyglot-pro-react-new/
